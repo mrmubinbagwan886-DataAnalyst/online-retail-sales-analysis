@@ -1,0 +1,22 @@
+# ============================================================
+# .gitignore - Online Retail II Analytics Project
+# ============================================================
+# Ye files GitHub par upload NAHI hongi (size limit / not needed)
+
+# Large database and cleaned data files (GitHub 100MB hard limit cross karte hain)
+data/online_retail.db
+data/cleaned_retail_data.csv
+
+# Common junk files (Python, OS, editor)
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.ipynb_checkpoints/
+
+# Excel/Office temporary lock files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx

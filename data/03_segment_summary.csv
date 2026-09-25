@@ -1,0 +1,7 @@
+customer_segment,num_customers,segment_revenue,pct_of_customers,pct_of_revenue
+Champions,1333,11719112.76,22.74,68.64
+At Risk,1339,3262757.71,22.85,19.11
+Needs Attention,819,840895.3,13.97,4.93
+Loyal Customers,570,730436.75,9.73,4.28
+Lost / Churned,1358,347978.39,23.17,2.04
+New / Promising,442,171671.38,7.54,1.01

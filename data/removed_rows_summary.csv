@@ -1,0 +1,9 @@
+reason,rows_removed
+exact_duplicate_rows,34335
+missing_or_blank_description,4275
+non_product_stock_codes,5629
+zero_or_negative_unit_price,1729
+zero_quantity,0
+missing_invoice_date,0
+TOTAL_STARTING_ROWS,1067371
+TOTAL_FINAL_ROWS,1021403
