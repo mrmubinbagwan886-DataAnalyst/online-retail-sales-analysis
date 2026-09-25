@@ -38,7 +38,7 @@ Online Retail Shop/
 │   ├── 03_rfm_and_segmentation.sql    # RFM scoring & customer segments
 │   └── 04_cohort_retention.sql        # Cohort retention analysis
 ├── powerbi/
-│   ├── Online_Retail_II_Dashboard.pbix
+│   ├── Online_Retail.pbix
 │   └── PowerBI_Build_Guide.md
 ├── report/
 │   ├── KPI_Summary.xlsx
@@ -136,5 +136,4 @@ For the Power BI dashboard, follow [`powerbi/PowerBI_Build_Guide.md`](powerbi/Po
 
 ## 👤 Author
 
-*Your Name*
-[LinkedIn](#) · [Portfolio](#)
+**Mohammad Mubin Mohammad Raees** · [LinkedIn](https://www.linkedin.com/in/mubin-bagwan-4131a6347)
